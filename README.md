@@ -1,2 +1,3 @@
-# asssessment-2
-Document and windows object
+The "document" object refers to the entire web page or HTML document, and provides access to the elements within it. The document object represents the DOM tree, which is a hierarchical representation of all the elements on the page, including HTML elements, text nodes, and other types of nodes. The document object can be used to manipulate the content of the page, such as changing the text or attributes of elements, adding or removing elements, or responding to events triggered by user actions.
+
+The "window" object, on the other hand, represents the browser window or tab that the web page is loaded in. It provides access to various properties and methods related to the browser window, such as the size and position of the window, the URL of the current page, and methods for navigating to other pages or opening new windows. The window object also provides access to the document object, as well as other important objects like the location object (which contains information about the URL) and the history object (which contains information about the user's browsing history).
